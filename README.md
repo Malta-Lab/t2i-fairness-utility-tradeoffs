@@ -4,7 +4,7 @@ A comprehensive evaluation framework for measuring fairness and utility tradeoff
 
 ## Overview
 
-This tool analyzes generated images to assess both utility (how well images match text prompts) and fairness (demographic diversity in generated content).
+This tool analyzes generated images to assess both utility and fairness (demographic diversity in generated content).
 It provides both a web interface and command-line tools for batch processing.
 
 ## Features
